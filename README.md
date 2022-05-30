@@ -5,7 +5,9 @@ Inside this Crash Course we used Bootstrap V5.0.2
 https://www.youtube.com/watch?v=4sosXZsdy-s&ab_channel=TraversyMedia
 
 ** We Used MapBox API " To including the map inside our website
+
 ** We Used Model from Bootstrap to pop up a registeration form 
+
 ** a lot of new emmit coding skills
 
 ** Used Many Important Sources 
